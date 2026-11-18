@@ -1,0 +1,6 @@
+{
+  "name": "Research Project Management Portal — RPMP",
+  "description": "Academic research management system for managing research projects, researchers, funding, publications, reports, users, and activity logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
